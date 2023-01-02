@@ -1,0 +1,23 @@
+/* Style for the Odd number class */
+.OddNumbers {
+    background-color: rgba(238, 61, 120, 0.733);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Style for the Second Number ID */
+#SecondNumber {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Style for the Cool Class. */
+.Cool {
+    font-size: 24px;
+}
+
+/* Style for the Second ID */
+#FourthNumber {
+    background-color: rgb(57, 243, 72);
+    font-size: 24px;
+    font-weight: bold;
+}
