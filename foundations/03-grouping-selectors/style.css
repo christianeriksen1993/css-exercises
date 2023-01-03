@@ -1,0 +1,11 @@
+.One {
+    background-color: black;
+    color: white;
+}
+.Two {
+    background-color: rgb(251, 251, 0);
+}
+.One, .Two {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
